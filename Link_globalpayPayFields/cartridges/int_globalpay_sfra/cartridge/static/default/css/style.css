@@ -1,0 +1,20 @@
+.gpayerror {
+  color: red;
+  font-size: 1.125rem;
+  font-weight: bold; }
+
+.sandbox-warning {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.313rem;
+  color: white;
+  background-color: #770000;
+  padding: 0.5rem 0.313rem;
+  font-family: Verdana;
+  font-weight: 100;
+  font-size: 0.75rem;
+  text-align: center;
+  box-sizing: border-box; }
+
+.dropdown-country-selector a {
+  color: #444; }
